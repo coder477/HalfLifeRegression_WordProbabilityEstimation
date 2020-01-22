@@ -1,5 +1,6 @@
 # WordProbability Estimation
 This is a representation of HalfLife Regression algorithm used to estimate the probability that a user reminds a word after learning it.
+
 This is based on duolingo's working algorithm mention in the paper below.
 https://s3.amazonaws.com/duolingo-papers/publications/settles.acl16.pdf
 
